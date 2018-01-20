@@ -4,8 +4,8 @@
 
 from os.path import join, dirname
 import pandas as pd
-
-from bokeh.models import ColumnDataSource,LabelSet,Select,HoverTool,CategoricalColorMapper, Div
+import bokeh.models.tools as bmt
+from bokeh.models import ColumnDataSource,LabelSet,Select,CategoricalColorMapper, Div
 from bokeh.layouts import row, widgetbox
 from bokeh.palettes import Spectral5
 from bokeh.plotting import curdoc, figure
@@ -17,7 +17,7 @@ SIZES = list(range(6, 22, 3))
 COLORS = Spectral5
 
 desc = Div(text=open(join(dirname(__file__), "description.html")).read(), width=800)
-new = df[['ProjectID','ProjectType','Jurisdiction','ProjectDescription']].copy()
+new = df[['ProjectID','ProjectType','Jurisdiction','ProjectDescription','Cost']].copy()
 
 del df['ProjectID']
 del df['ProjectType']
@@ -44,13 +44,15 @@ def update(attr, old, new):
 
 def create_figure():
     # # Create Column Data Source that will be used by the plot
-    source = ColumnDataSource(data=dict(x = [], y=[],PID = [], Jurisdiction=[], projectT=[], projectD=[]))
-    hover = HoverTool(tooltips=[
+    source = ColumnDataSource(data=dict(x = [], y=[],PID = [], Jurisdiction=[], projectT=[], projectD=[], Cost=[]))
+    hover = bmt.HoverTool(tooltips=[
         ("Project ID", "@PID"),
         ("Jurisdiction", "@Jurisdiction"),
         ("Project Type", "@projectT"),
         ("Project Description", "@projectD"),
+        ("Cost in Millions", "@Cost"),
     ])
+    TOOLS = [bmt.BoxZoomTool(), bmt.PanTool(), hover, bmt.ResetTool(), bmt.SaveTool(), bmt.WheelZoomTool()]
 
     xs = df[x.value].values
     ys = df[y.value].values
@@ -67,7 +69,7 @@ def create_figure():
     # 'pan,wheel_zoom,box_zoom,reset,save,hover'
     # plot = figure(plot_height=600, plot_width=800, tools=" ", **kw)
     # plot = figure(plot_height=600, plot_width=800, tools='')
-    plot = figure(plot_height=600, plot_width=800, tools=[hover])
+    plot = figure(plot_height=600, plot_width=800, tools=TOOLS, **kw)
     plot.xaxis.axis_label = x_title
     plot.yaxis.axis_label = y_title
 
@@ -88,7 +90,8 @@ def create_figure():
         Jurisdiction = new["Jurisdiction"],
         projectD=new["ProjectDescription"],
         projectT=new["ProjectType"],
-        PID = new["ProjectID"]
+        PID = new["ProjectID"],
+        Cost = new["Cost"]
     )
 
     plot.circle(x=xs, y=ys, source = source,color=c, size=sz, line_color="white", alpha=0.6, hover_color='white', 
