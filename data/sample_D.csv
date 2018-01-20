@@ -1,0 +1,138 @@
+ProjectID,ProjectType,Jurisdiction,ProjectDescription,Mobility & Congestion,Reliability,Connectivity,Multimodalism,Asset Management,Saftey,Air & Climate,Cultural & Environmental Resources,Social Equity,Land Use Compatibility,Goods Movement,Employment Accessibility,Final Score,Performance Tier,Cost
+MID-01,Bike,ATL,10th St Bridge Cycle Track,100,,35,60,,57,100,68,100,75,,100,74,1,$4.58 
+GW-380,Bike,GW,Buford Hwy Bike & Ped,23,,68,70,,74,4,63,0,25,,100,50,4,$5.21 
+ADID-02,Ped,ATL,Northside Drive Ped. Imp.,100,,100,30,,58,73,50,0,100,,100,70,1,$6.15 
+HOL-01,Ped,CH,Holly Springs - multiple streets,23,,40,0,,10,4,50,0,0,,100,24,4,$3.09 
+DK-414,Ped,DK,Ped to Schools,54,,100,30,,27,19,50,100,50,,100,60,4,$5.68 
+DK-441,Ped,DK,US 278 Improvements,46,,100,70,,48,100,55,0,50,,100,63,1,$5.34 
+FAI-01,Ped,FA,Broad Street Ped & Bike Lanes,38,,100,93,,67,27,38,0,50,,100,62,3,$4.60 
+COS-01,Ped,FN,Roswell Road/SR 9/US 19,100,,100,30,,66,100,5,100,50,,100,74,3,$7.80 
+FS-287,Ped,FS,North Central Ave Improv.,33,,100,30,,18,45,50,100,50,,100,57,2,$0.33 
+DAL-02,Ped,PA,SR 61/Confederate Avenue,26,,40,0,,33,7,50,0,0,,100,28,2,$0.25 
+CL-01,Road Asset,CL,Forest Parkway Pavement Rehab,74,,66,50,32,25,,40,100,,50,100,58,3,$5.01 
+CL-267,Road Asset,CL,Valley Hill Rd Bridge Replacement,33,,66,50,53,50,,62,100,,50,100,60,3,$5.81 
+3-Mar,Road Asset,CO,Franklin Gateway Bridge,40,,0,100,56,0,,62,100,,0,100,48,3,$4.17 
+DO-300,Road Asset,DO,Riverside Parkway Bridge Upgrade,28,,66,0,52,0,,50,0,,50,100,37,1,$0.63 
+FA-02-1,Road Asset,FA,Fayette Resurf  - W.McIntosh,8,,33,0,95,50,,26,100,,0,100,47,3,$0.59 
+FA-02-10,Road Asset,FA,Fayette Resurf - Lees Lake Rd,5,,33,0,77,50,,38,0,,0,100,36,4,$0.58 
+FA-02-11,Road Asset,FA,Fayette Resurf - Sandy Creek,23,,66,0,57,50,,0,0,,0,100,38,3,$0.94 
+FA-02-2,Road Asset,FA,Fayette Resurf - Hampton Rd,18,,33,0,90,50,,37,0,,0,100,40,1,$0.27 
+FA-02-3,Road Asset,FA,Fayette Resurf - Berhard,9,,33,0,79,50,,41,0,,0,0,27,2,$0.26 
+FA-02-4,Road Asset,FA,Fayette Resurf - Robbinson Rd,31,,66,0,58,50,,28,0,,0,0,30,4,$2.01 
+FA-02-5,Road Asset,FA,Fayette Resurf - S.Peachtree Pkwy,36,,66,0,68,50,,24,0,,0,0,32,4,$3.04 
+FA-02-6,Road Asset,FA,Fayette Resurf - Beau/Redwine,39,,66,0,51,50,,31,0,,0,100,41,1,$0.60 
+FA-02-7,Road Asset,FA,Fayette Resurf - Grady,45,,33,0,50,50,,46,0,,50,100,42,1,$0.23 
+FA-02-8,Road Asset,FA,Fayette Resurf - Dogwood,14,,33,0,59,50,,35,0,,0,0,24,4,$0.57 
+FA-02-9,Road Asset,FA,Fayette Resurf - Tyrone Rd,26,,66,0,79,50,,39,0,,0,0,33,2,$0.43 
+JOH-05,Road Asset,FN,SR120 Landscaping & Sound Abatement,94,,66,0,18,50,,26,0,,50,0,37,2,$2.00 
+GW-PVT1,Road Asset,GW,Peachtree Ind. Blvd Resurfacing,100,,66,0,62,0,,24,0,,50,100,47,1,$2.30 
+GW-PVT2,Road Asset,GW,Sat Blvd Resurf - PH1 - PH to SR120,100,,66,0,60,0,,37,0,,0,100,43,1,$1.50 
+GW-PVT3,Road Asset,GW,Riverside Parkway Resurfacing,58,,33,0,43,0,,39,0,,0,100,31,2,$0.80 
+GW-PVT4,Road Asset,GW,Buford Dam Road Resurfacing,36,,66,0,69,0,,22,0,,0,0,25,2,$0.95 
+GW-PVT5,Road Asset,GW,Sat Blvd Resurf - PH2 - MG Ferry to Smith,53,,66,0,46,0,,44,0,,0,100,35,2,$1.00 
+NE-106,Road Asset,NE,Brown Bridge Rd @Yellow River,46,,66,50,100,0,,61,0,,50,0,43,3,$6.66 
+NE-107,Road Asset,NE,Brown Bridge Rd @Snapping Shoal,42,,66,0,69,25,,75,0,,50,0,36,4,$4.55 
+CCID01,Road Expansion,CO,Akers Mill Express Lane Ramps,14,100,0,0,,13,0,41,0,,0,73,25,2,$20.57 
+CO-450B,Road Expansion,CO,S. Barrett Pkway Reliever - PH3,70,0,100,100,,38,82,49,0,,0,84,55,1,$31.16 
+NEWNAN-01,Road Expansion,CW,Lower Fayetteville Rd Widening,24,30,0,62,,55,31,48,100,,0,65,40,3,$52.20 
+EAS-01,Road Expansion,FS,Welcome All Rd Widening,11,55,0,9,,21,35,48,100,,100,70,39,3,$6.33 
+FT-001F,Road Expansion,FT,SR9 Widening,31,76,0,20,,67,43,43,0,,100,62,44,1,$17.50 
+AR-ML-020,Road Expansion,GDOT,I-285 @I-20 W - Int. Recons. & Widening,86,14,0,0,,14,0,50,100,,100,97,42,3,$40.10 
+AR-ML-025,Road Expansion,GDOT,I-285 @I-20 E - Int. Recons. & Widening,50,42,0,0,,41,100,50,0,,100,50,40,1,$29.19 
+AR-ML-210,Road Expansion,GDOT,I-285 from I-75 to I-20 Express Lanes,50,64,0,0,,17,0,0,100,,0,100,34,2,$33.40 
+AR-ML-240,Road Expansion,GDOT,I-285 East Wall Express Lanes,50,55,0,0,,20,0,30,100,,0,100,35,2,$42.72 
+GW-269,Road Expansion,GW,SR124 Widening,100,100,0,100,,37,46,33,0,,100,100,65,1,$39.31 
+GW-389,Road Expansion,GW,I-85 @ McGinnis Ferry Rd - New Int.,9,0,0,0,,25,35,50,0,,100,74,25,2,$15.20 
+GW-EVM1,Road Expansion,GW,North Evemore Pkwy Extension,19,0,100,4,,38,25,46,0,,100,22,35,2,$11.60 
+GW-KH,Road Expansion,GW,Killian Hill Rd Widening,69,45,0,0,,29,58,45,100,,0,33,35,1,$20.00 
+HE-005,Road Expansion,HE,SR81 Widening,51,31,0,62,,41,71,55,100,,100,57,52,1,$21.94 
+HE-109,Road Expansion,HE,Rock Quarry Road Extension,15,0,100,33,,25,45,65,0,,0,23,31,2,$7.00 
+HE-126 B,Road Expansion,HE,Bill Gardner Parkway Widening,36,32,0,45,,88,30,52,0,,100,64,45,3,$18.00 
+HE-137,Road Expansion,HE,East Atlanta Road Widening,32,23,0,38,,26,37,47,0,,0,23,22,4,$39.00 
+HE-161A,Road Expansion,HE,Rock Quarry Road Widening,36,33,0,68,,29,38,64,0,,0,63,33,4,$32.98 
+HE-193,Road Expansion,HE,Jodeco Road Widening,11,26,0,42,,27,27,68,0,,0,12,20,4,$23.70 
+PA-036B,Road Expansion,PA,Cedarcrest Rd Widening,4,3,0,19,,47,25,34,0,,0,15,15,4,$38.85 
+RO 235E1,Road Expansion,RO,Sigman Rd Widening - PH4,8,53,0,50,,60,37,58,0,,100,68,42,3,$27.31 
+RO 243,Road Expansion,RO,I-20 Crossing - Old Cov. To Flat Shoals,5,0,100,16,,13,31,54,0,,0,70,29,4,$21.75 
+RO-235D,Road Expansion,RO,Sigman Rd Widening - PH3,26,25,0,71,,65,31,71,100,,100,70,51,3,$28.30 
+Atlanta-03,Road Operations,ATL,Peachtree Strategy,49,44,100,0,,36,0,48,100,,0,100,49,3,$18.00 
+CHE-01,Road Operations,CH,Trickum Rd @ SR 92 Int. Improvements,30,95,100,0,,75,0,50,0,,100,0,48,3,$4.50 
+CHE-02,Road Operations,CH,I-575 @ Towne Lake Pkwy Int. Improv.,48,38,100,0,,72,38,50,0,,100,0,46,3,$5.80 
+CHE-03,Road Operations,CH,I-575 @ Ridgewalk Pkwy Int. Improv.,41,49,100,0,,75,38,50,0,,100,0,47,3,$4.69 
+Brookhaven-04a,Road Operations,DK,Ashford Dun. @ Windsor Pkwy,70,84,100,30,,44,34,50,0,,0,0,46,1,$2.60 
+Brookhaven-04b,Road Operations,DK,Ashford Dun. @ Ptree Rd,25,57,100,30,,49,27,49,0,,0,0,37,4,$8.24 
+Brookhaven-08,Road Operations,DK,Ashford Dun. @ Mont. Elem.,47,97,100,48,,38,28,50,0,,0,0,45,4,$1.92 
+Brookhaven-10,Road Operations,DK,Ashford Dun. Rd South,33,62,100,46,,51,28,48,0,,0,0,41,4,$7.60 
+DK-065B,Road Operations,DK,Panola Rd Seg.2 Oprtnl Impr.,76,55,100,100,,48,100,53,100,,0,100,74,1,$22.18 
+DK-344C,Road Operations,DK,25 signal upgrades,69,50,100,0,,49,100,51,100,,100,100,69,1,$3.20 
+DUN-01,Road Operations,DK,Chamblee Dun. Impr.,92,100,0,50,,67,43,49,0,,0,0,44,2,$4.60 
+FN-287,Road Operations,FN,SR 120 - Parsons to Medlock,41,53,100,0,,31,33,47,0,,100,0,41,4,$16.00 
+FN-288A,Road Operations,FN,Barnwell @ Holcolmb Br.,30,48,100,32,,30,28,49,0,,100,0,42,4,$7.00 
+FT-335,Road Operations,FT,Jewell Bennett Rd @ SR9 Realign/Turn,4,17,100,0,,21,25,50,0,,100,0,30,4,$1.40 
+GW-CVEH,Road Operations,GW,Ptree Ind. Blvd. Smart Cor - PH1 &2,75,47,100,0,,40,100,0,0,,100,100,59,1,$2.85 
+GW-ITS1,Road Operations,GW,ITS Expansion - PH1,66,35,100,0,,13,100,36,100,,100,100,61,1,$4.89 
+GW-ITS3,Road Operations,GW,ITS Expansion - PH2,59,3,100,0,,25,100,36,100,,100,100,58,1,$5.93 
+NE-105,Road Operations,NE,Realignment,8,12,100,0,,88,0,50,0,,100,100,47,3,$5.76 
+GRI-02,Road Operations,SP,Solomon St. Inters. Impr.,6,24,0,0,,39,25,55,0,,0,0,14,4,$2.40 
+SP-067A,Road Operations,SP,SR 155 Relocation,7,26,100,0,,2,25,46,100,,100,100,46,4,$12.84 
+AR-550,Transit Asset,GRTA,Xpress Fleet Reinvestment,54,,,,67,100,,0,0,,,100,60,3,$4.25 
+GRTA-003,Transit Asset,GRTA,Xpress Breeze Migrat. & Mobile Ticket,90,,,,0,100,,0,0,,,100,52,2,$2.50 
+GRTA-004,Transit Asset,GRTA,Xpress Integrated Tech Project,90,,,,0,100,,0,0,,,100,52,2,$8.00 
+GRTA-006,Transit Asset,GRTA,Xpress Rockdale P&R Expansion,33,,,,13,100,,30,100,,,100,60,3,$8.25 
+GW-PNR,Transit Asset,GW,Indian Trail P&R Lot Improvements,33,,,,86,0,,25,100,,,100,63,3,$2.00 
+M-AR-274B2,Transit Asset,MARTA,MARTA Clean Bus Procurement,17,,,,69,0,100,0,100,,,100,58,1,$5.50 
+MARTA-02,Transit Asset,MARTA,Edgewood Station TOD Improvements,59,,,,50,0,,60,100,,,100,63,2,$4.70 
+CO-702,Transit Expansion,CO,Weekend Transit Service,100,16,100,0,,0,100,0,100,25,,50,53,3,$6.80 
+DO-01,Transit Expansion,DO,Fixed Route Service,14,13,67,50,,0,16,46,100,25,,62,40,4,$8.00 
+GRTA-002,Transit Expansion,GRTA,Xpress NW Service Expansion,9,52,67,0,,100,6,42,100,25,,67,47,3,$5.88 
+GRTA-005,Transit Expansion,GRTA,Xpress Sugarloaf P&R Expansion,1,50,67,50,,100,0,65,0,0,,100,43,3,$8.25 
+GW-BUS1,Transit Expansion,GW,Gwinnett Transit Services Enh. - PH1,64,13,100,25,,0,58,62,100,50,,88,58,1,$5.04 
+GW-BUS2,Transit Expansion,GW,Gwinnett Transit Services Enh. - PH2,64,13,100,25,,0,58,47,100,50,,88,57,1,$3.21 
+GW-BUS3,Transit Expansion,GW,Gwinnett Transit Route 55,26,25,33,25,,0,29,47,100,50,,83,42,4,$4.59 
+MARTA-04,Transit Expansion,MARTA,Clifton Corridor,100,71,67,0,,100,100,48,100,25,,73,69,3,$45.00 
+MARTA-05-1,Transit Expansion,MARTA,MORE MARTA - Route 71,18,30,33,0,,0,7,48,100,0,,73,31,2,$4.81 
+MARTA-05-10,Transit Expansion,MARTA,MORE MARTA - Route 60,0,25,33,0,,0,0,49,100,0,,68,27,4,$2.48 
+MARTA-05-11,Transit Expansion,MARTA,MORE MARTA - Route 2,1,13,67,0,,0,0,48,100,75,,72,38,4,$1.38 
+MARTA-05-12,Transit Expansion,MARTA,MORE MARTA - Route 102,11,13,67,0,,0,10,49,100,75,,81,41,2,$1.21 
+MARTA-05-2,Transit Expansion,MARTA,MORE MARTA - Route 78,17,30,33,0,,0,12,49,100,25,,77,34,2,$2.50 
+MARTA-05-3,Transit Expansion,MARTA,MORE MARTA - Route 83,13,33,33,0,,0,8,49,100,25,,63,32,2,$3.31 
+MARTA-05-4,Transit Expansion,MARTA,MORE MARTA - Route 95,100,30,67,0,,0,100,47,100,0,,88,54,1,$4.66 
+MARTA-05-5,Transit Expansion,MARTA,MORE MARTA - Route 110,100,30,100,0,,0,100,49,100,25,,89,62,1,$1.49 
+MARTA-05-6,Transit Expansion,MARTA,MORE MARTA - Route 12,65,25,33,0,,0,0,49,100,25,,81,40,2,$2.57 
+MARTA-05-7,Transit Expansion,MARTA,MORE MARTA - Route 49,1,25,67,0,,0,0,49,100,25,,76,35,4,$2.82 
+MARTA-05-8,Transit Expansion,MARTA,MORE MARTA - Route 51,51,25,67,0,,0,51,49,100,25,,73,45,1,$2.67 
+MARTA-05-9,Transit Expansion,MARTA,MORE MARTA - Route 55,43,25,67,0,,0,36,48,100,25,,70,42,3,$4.26 
+AR-450A,Trail,ATL,ATL Beltline - NE Quad,100,,80,50,,100,100,67,100,25,,100,80,3,$101.00 
+AR-450C,Trail,ATL,ATL Beltline - SE Quad,100,,100,50,,100,100,65,100,25,,100,83,3,$98.82 
+ATL-299,Trail,ATL,Lee Street Trail,100,,100,50,,75,100,48,100,25,,100,78,1,$8.15 
+BCID-02,Trail,ATL,Lenox Rd Trail,52,,20,0,,0,46,55,0,0,,100,27,2,$4.55 
+BCID-04,Trail,ATL,Peachtree Rd Trail - Buckhead,83,,20,0,,50,86,50,0,25,,100,44,3,$13.95 
+LBI-01,Trail,ATL,PATH400 - Wieuca to Loridans,34,,80,50,,75,32,61,0,0,,0,40,4,$5.60 
+LBI-2,Trail,ATL,PATH400 - Sandy Springs Ext.,49,,100,50,,75,67,49,0,25,,100,59,1,$3.70 
+WOO-1,Trail,CH,Noonday Creek Trail Extension,64,,100,0,,0,52,31,0,100,,100,51,1,$3.65 
+1-Mar,Trail,CO,North Marietta Pkwy,50,,20,50,,50,44,37,100,0,,0,38,4,$6.65 
+2-Mar,Trail,CO,Burnt Hickory Trail,36,,60,50,,50,39,32,0,25,,0,35,2,$2.32 
+CCID03,Trail,CO,Akers Mill Trail,24,,20,0,,75,19,47,0,0,,0,22,4,$2.48 
+CO-2,Trail,CO,Mableton Parkway Trail - PH1,75,,60,50,,0,61,37,100,0,,100,52,1,$6.77 
+CO-3,Trail,CO,Mableton Parkway Trail - PH2,65,,60,50,,25,52,45,100,0,,100,54,1,$4.70 
+CO-462,Trail,CO,Rottenwood Creek Trail - PH1,16,,80,50,,50,14,25,100,25,,100,53,3,$10.92 
+CO-703,Trail,CO,West Atlanta Street Trail,25,,100,0,,0,23,40,100,0,,0,32,2,$2.20 
+CW-077,Trail,CW,Senoia Ivy Ridge Trail,20,,60,0,,0,16,48,0,0,,0,16,2,$1.30 
+Brookhaven-02,Trail,DK,Peachtree Creek Greenway - PH2,49,,100,50,,50,36,79,100,0,,0,52,1,$3.40 
+Brookhaven-05,Trail,DK,North Druid Hills Path,71,,20,50,,0,69,48,100,0,,0,36,2,$4.76 
+Brookhaven-06,Trail,DK,Dresden Dr - Trail,34,,20,50,,75,34,47,0,25,,0,33,4,$5.00 
+Brookhaven-09,Trail,DK,Peachtree Creek Greenway - PH1,57,,100,50,,50,43,69,100,0,,0,53,3,$6.60 
+DK417,Trail,DK,Georgetown Multimodal,60,,20,50,,75,90,50,0,0,,100,48,3,$6.50 
+DK418-A,Trail,DK,Perimeter Trails - Ashford Dunw.,100,,80,0,,50,96,50,0,0,,100,52,1,$2.82 
+DK418-B,Trail,DK,Perimeter Trails - Ptree Dunwoody,49,,80,0,,50,49,49,0,0,,100,42,3,$4.72 
+FA-353,Trail,FA,Fayetteville Multi-Use Path,62,,40,0,,0,49,32,0,25,,100,33,2,$3.09 
+UNI-01,Trail,FS,Amenity Connector Trail,2,,40,0,,75,2,62,0,0,,100,32,4,$0.55 
+GW-384,Trail,GW,Western Gwinnett Bikeway Ext,90,,0,0,,0,88,36,0,25,,100,34,4,$8.77 
+GW-385,Trail,GW,Norcross to Lilburn Trail,75,,60,0,,0,64,43,100,0,,100,46,1,$5.55 
+GW-402,Trail,GW,Rogers Bridge,40,,60,0,,0,30,50,0,25,,0,22,4,$4.60 
+GW-TRL1,Trail,GW,McDaniel Farm Park Connector,18,,20,0,,50,14,74,0,0,,100,29,4,$3.70 
+NORC-17-02,Trail,GW,Norcross LCI Greenway,47,,20,0,,0,73,50,100,25,,100,40,3,$5.45 
+Peachtree Corners-01,Trail,GW,Crooked Creek Multi-Use Trail,98,,80,0,,50,100,17,100,0,,100,60,1,$4.30 
+DAL-01,Trail,PA,Dallas Battlefield Trail,32,,20,0,,0,26,44,0,0,,0,12,2,$0.63 
+PA-100,Trail,PA,Dallas Battlefield Trail - PH2,39,,20,0,,0,36,25,0,0,,0,12,4,$4.23 
+LOG-01,Trail,WA,SR81 Shared Use Path,31,,20,0,,0,30,51,0,0,,0,13,2,$2.00 
